@@ -2,7 +2,7 @@
 
 Esta es la entrega del proyecto final para el curso de Talento Tech Unity 2D, desarrollado a lo largo del cuatrimestre.
 
-## 🚀 Descripción General
+## Descripción General
 El juego es un *bullet heaven* de supervivencia espacial inspirado en *Vampire Survivors*. El jugador controla una nave para enfrentarse a oleadas de enemigos, recolectar experiencia y mejorar su armamento mientras intenta sobrevivir el mayor tiempo posible.
 
 ## Controles
