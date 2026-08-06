@@ -47,4 +47,3 @@ El juego finaliza si la vida del jugador llega a 0. Se despliega una pantalla de
 
 **Leandro Raul Ferrero**
 * [GitHub](https://github.com/leaFerrero)
-* Proyecto Final - Talento Tech (Unity 2D)
