@@ -44,6 +44,5 @@ El escenario incluye asteroides destructibles que actúan como obstáculos y rec
 El juego finaliza si la vida del jugador llega a 0. Se despliega una pantalla de *Game Over* con opciones para **Reiniciar la partida** o **Volver al Menú Principal**.
 
 ##  Autor
-
 **Leandro Raul Ferrero**
 * [GitHub](https://github.com/leaFerrero)
