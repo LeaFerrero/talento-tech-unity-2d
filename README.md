@@ -42,3 +42,9 @@ El escenario incluye asteroides destructibles que actúan como obstáculos y rec
 
 ## Fin del Juego
 El juego finaliza si la vida del jugador llega a 0. Se despliega una pantalla de *Game Over* con opciones para **Reiniciar la partida** o **Volver al Menú Principal**.
+
+##  Autor
+
+**Leandro Raul Ferrero**
+* [GitHub](https://github.com/leaFerrero)
+* Proyecto Final - Talento Tech (Unity 2D)
