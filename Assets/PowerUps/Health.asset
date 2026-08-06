@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9afe0c522f09d284997081805a493e33, type: 3}
+  m_Name: Health
+  m_EditorClassIdentifier: 
+  powerUpName: Health UP
+  powerUpDescription: Max health +25
+  powerUpIcon: {fileID: 1643222815, guid: 64c867d5628e6714d8cfa2766a4e4f94, type: 3}

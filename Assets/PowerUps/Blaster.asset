@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25d001dfbf64a5a4597b260b5e2ded96, type: 3}
+  m_Name: Blaster
+  m_EditorClassIdentifier: 
+  powerUpName: Blaster
+  powerUpDescription: A simple blaster
+  powerUpIcon: {fileID: -518372243, guid: 9806b6bfcbc905a47ae0a67a23c2bf3d, type: 3}
+  weaponPrefab: {fileID: 6487664149525254019, guid: ce86c11a969c09e49a5e3c6d2acc729e, type: 3}
+  weaponData: {fileID: 11400000, guid: f7e4e967a76a69a428a54b8df3264d38, type: 2}
